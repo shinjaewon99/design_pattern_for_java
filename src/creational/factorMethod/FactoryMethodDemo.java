@@ -1,4 +1,4 @@
-package creational;
+package creational.factorMethod;
 
 import creational.factorMethod.dialog.Dialog;
 import creational.factorMethod.dialog.HtmlDialog;
