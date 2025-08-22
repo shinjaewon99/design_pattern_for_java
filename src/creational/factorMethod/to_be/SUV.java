@@ -1,4 +1,4 @@
-package creational.abstractFactory.to_be;
+package creational.factorMethod.to_be;
 
 public class SUV implements Car {
     @Override

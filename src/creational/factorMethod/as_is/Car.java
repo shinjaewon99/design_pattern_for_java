@@ -1,4 +1,4 @@
-package creational.abstractFactory.to_be;
+package creational.factorMethod.as_is;
 
 public interface Car {
     void drive();

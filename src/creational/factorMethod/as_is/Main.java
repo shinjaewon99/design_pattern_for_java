@@ -1,4 +1,4 @@
-package creational.abstractFactory.as_is;
+package creational.factorMethod.as_is;
 
 public class Main {
     public static void main(String[] args) {
