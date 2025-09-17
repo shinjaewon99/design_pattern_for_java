@@ -1,4 +1,4 @@
-package behavioral.mediator;
+package behavioral.mediator.as_is;
 
 public class User {
     private String name;

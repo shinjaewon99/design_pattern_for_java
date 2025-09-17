@@ -1,4 +1,4 @@
-package behavioral.mediator;
+package behavioral.mediator.as_is;
 
 /**
  * 객체들이 서로 직접 참조함에 따라 의존성이 높아짐
